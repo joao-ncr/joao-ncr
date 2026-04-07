@@ -7,7 +7,9 @@ Trabalho com Python para manipulação e transformação de dados, SQL avançado
 
 Estou expandindo meu conhecimento em computação em nuvem (Cloud) aplicada a ambientes de dados, com o objetivo de atuar na construção de pipelines robustos e escaláveis.
 
-Busco minha primeira experiência formal como Engenheiro de Dados Júnior ou Estagiário, onde possa contribuir ativamente na construção de bases de dados confiáveis e evoluir em ferramentas modernas do ecossistema de dados.
+Estou em busca de experiências formais em engenharia de dados, onde possa contribuir ativamente na construção de pipelines robustos e evoluir junto a times orientados a dados. 
+
+Caso queira trocar uma ideia sobre a área de dados, frameworks, pipelines e bibliotecas, pode me chamar nos meus contatos linkados em meu perfil. Será um prazer!
 
 <p align="left">
     <a href="https://github.com/joao-ncr?tab=followers">
