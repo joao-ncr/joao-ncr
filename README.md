@@ -5,7 +5,7 @@ Olá! Sou João, estudante de Sistemas de Informação na UNIFEI (Itajubá - MG)
 
 Trabalho com Python para manipulação e transformação de dados, SQL avançado para consulta e análise de grandes volumes, e controle de versão com Git e GitHub. Tenho familiaridade com pipelines de dados utilizando Apache Airflow, processamento distribuído com Apache Spark e arquitetura Medallion (Bronze/Silver/Gold).
 
-Estou expandindo meu conhecimento em computação em nuvem (Cloud) aplicada a ambientes de dados, com o objetivo de atuar na construção de pipelines robustos e escaláveis.
+Estou expandindo meu conhecimento em computação em nuvem (Cloud) aplicada a ambientes de dados, com o objetivo de atuar na construção de pipelines robustos e escaláveis. Os projetos práticos onde aplico os conhecimentos acumulados estão disponíveis publicamente em meus repositórios. Caso queira visitá-los, vai ser um prazer contribuir colaborativamente
 
 Estou em busca de experiências formais em engenharia de dados, onde possa contribuir ativamente na construção de pipelines robustos e evoluir junto a times orientados a dados. 
 
